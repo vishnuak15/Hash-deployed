@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-70a4k%1on6j$&#m63(91^ouc8tsj(!a1+d-1$$^j93cpsrl)r6
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['fast-refuge-77482.herokuapp.com']
+ALLOWED_HOSTS = ['warm-hollows-11637.herokuapp.com']
 
 
 # Application definition
@@ -87,9 +87,9 @@ WSGI_APPLICATION = 'hashthat.wsgi.application'
 DATABASES = {	
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'd4n1l65t4c8fjh',
-        'USER': 'zydubbybhetbng',
-        'PASSWORD':  '36eac0112e207a85463e9e34e332ce046568c0fa3b2e7eaf3fe2022cc7bf0660',
+        'NAME': 'd53rrvkm4f9g0t',
+        'USER': 'hhjkbyfgiqipwo',
+        'PASSWORD':  '3250b54c9045f42662ecd5aa779c48dbb27f03fbc0b194516bbf6f067e237ab9',
         'HOST': 'ec2-3-221-140-141.compute-1.amazonaws.com',
         'PORT': '5432',
     }
