@@ -1,0 +1,8 @@
+{% extends "hashing/base.html" %} {% block content %}
+<br><br>
+<div>
+    <h2>Hash: {{ hash.hash }}</h1>
+        <h1>Text: {{ hash.text }}</h1>
+</div>
+<h3><a style="color:white" href="{% url 'home' %}">Home</a></h3>
+{% endblock %}
